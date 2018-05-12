@@ -1,0 +1,57 @@
+# depslib dependency file v1.0
+1525996859 source:d:\parcial_lucianogil\parcial_lucianogil\aviso.c
+	"Cliente.h"
+	"aviso.h"
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"utn.h"
+
+1525992065 source:d:\parcial_lucianogil\parcial_lucianogil\cliente.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"cliente.h"
+	"utn.h"
+
+1525989374 d:\parcial_lucianogil\parcial_lucianogil\cliente.h
+
+1524702640 d:\parcial_lucianogil\parcial_lucianogil\utn.h
+
+1524702640 source:d:\parcial_lucianogil\parcial_lucianogil\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"utn.h"
+
+1525998108 source:d:\parcial_lucianogil\parcial_lucianogil\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"utn.h"
+	"aviso.h"
+	"Cliente.h"
+	"informar.h"
+
+1525996812 d:\parcial_lucianogil\parcial_lucianogil\aviso.h
+	"Cliente.h"
+
+1525998026 source:d:\parcial_lucianogil\parcial_lucianogil\informar.c
+	<stdio.h>
+	<stdlib.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"utn.h"
+	"aviso.h"
+	"Cliente.h"
+
+1525997952 d:\parcial_lucianogil\parcial_lucianogil\informar.h
+
