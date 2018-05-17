@@ -1,0 +1,169 @@
+# depslib dependency file v1.0
+1525996859 source:d:\parcial_lucianogil\parcial_lucianogil\aviso.c
+	"Cliente.h"
+	"aviso.h"
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"utn.h"
+
+1525992065 source:d:\parcial_lucianogil\parcial_lucianogil\cliente.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"cliente.h"
+	"utn.h"
+
+1525989374 d:\parcial_lucianogil\parcial_lucianogil\cliente.h
+
+1524702640 d:\parcial_lucianogil\parcial_lucianogil\utn.h
+
+1524702640 source:d:\parcial_lucianogil\parcial_lucianogil\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"utn.h"
+
+1525998108 source:d:\parcial_lucianogil\parcial_lucianogil\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"utn.h"
+	"aviso.h"
+	"Cliente.h"
+	"informar.h"
+
+1525996812 d:\parcial_lucianogil\parcial_lucianogil\aviso.h
+	"Cliente.h"
+
+1525998026 source:d:\parcial_lucianogil\parcial_lucianogil\informar.c
+	<stdio.h>
+	<stdlib.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"utn.h"
+	"aviso.h"
+	"Cliente.h"
+
+1525997952 d:\parcial_lucianogil\parcial_lucianogil\informar.h
+
+1526502193 source:c:\users\luciano\desktop\parcial_lucianogil\aviso.c
+	"Cliente.h"
+	"aviso.h"
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"utn.h"
+
+1526448964 c:\users\luciano\desktop\parcial_lucianogil\cliente.h
+
+1526450668 c:\users\luciano\desktop\parcial_lucianogil\aviso.h
+	"Cliente.h"
+
+1524702640 c:\users\luciano\desktop\parcial_lucianogil\utn.h
+
+1526502193 source:c:\users\luciano\desktop\parcial_lucianogil\cliente.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"cliente.h"
+	"utn.h"
+
+1526502201 source:c:\users\luciano\desktop\parcial_lucianogil\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"utn.h"
+	"aviso.h"
+	"Cliente.h"
+	"informar.h"
+
+1526502193 c:\users\luciano\desktop\parcial_lucianogil\informar.h
+
+1524702640 source:c:\users\luciano\desktop\parcial_lucianogil\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"utn.h"
+
+1526502192 source:c:\users\luciano\desktop\parcial_lucianogil\informar.c
+	<stdio.h>
+	<stdlib.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"utn.h"
+	"aviso.h"
+	"Cliente.h"
+
+1526575149 source:c:\users\luciano\desktop\parciallucianogil entregar\aviso.c
+	"Cliente.h"
+	"aviso.h"
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"utn.h"
+
+1526448964 c:\users\luciano\desktop\parciallucianogil entregar\cliente.h
+
+1526575112 c:\users\luciano\desktop\parciallucianogil entregar\aviso.h
+	"Cliente.h"
+
+1524702640 c:\users\luciano\desktop\parciallucianogil entregar\utn.h
+
+1526502193 source:c:\users\luciano\desktop\parciallucianogil entregar\cliente.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"cliente.h"
+	"utn.h"
+
+1526576282 source:c:\users\luciano\desktop\parciallucianogil entregar\informar.c
+	<stdio.h>
+	<stdlib.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"utn.h"
+	"aviso.h"
+	"Cliente.h"
+
+1526576387 source:c:\users\luciano\desktop\parciallucianogil entregar\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"utn.h"
+	"aviso.h"
+	"Cliente.h"
+	"informar.h"
+
+1526574751 c:\users\luciano\desktop\parciallucianogil entregar\informar.h
+
+1524702640 source:c:\users\luciano\desktop\parciallucianogil entregar\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"utn.h"
+
